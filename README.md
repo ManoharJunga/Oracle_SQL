@@ -18,3 +18,19 @@ The data in RDBMS is stored in database objects called tables. A table is a coll
 <p align="center">
   <img src="./Images/where_database_is_used.png" width="350" alt="accessibility text">
 </p>
+
+# Types of databases
+- Relational Database Management System
+- NOSQL Database Management System
+
+# NOSQL database management system
+
+
+
+
+
+
+## Managing refers to storing permanently and retrieving efficiently
+1. How to store data(small volumes of facts) permanently and how to retrieve (get the stored facts) efficiently?
+
+2. How to store database(large volumes of facts) permanently and how to retrieve (get the stored large volumes of facts) efficiently ?
